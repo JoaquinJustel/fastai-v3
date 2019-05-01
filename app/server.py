@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://drive.google.com/uc?export=download&id=1faflZ_vfNO9GypfY_T_9X9gPTscENUP5'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1PXl2-vgAiyQodqvNfNqugj4kaTwQZNcK'
 export_file_name = 'export.pkl'
 
 classes = ['Drepanocitos', 'Esferocito', 'HJ', 'Normal', 'PB', 'PLT', 'Pappenheimer', 'Reticulocito']
